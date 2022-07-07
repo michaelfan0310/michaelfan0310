@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Michael Fan 👋
+![header_](https://user-images.githubusercontent.com/74441675/177853337-b4be5e48-03e0-4fba-833c-0c811de4c28d.png)
 
 <!--
 **michaelfan0310/michaelfan0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
